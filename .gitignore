@@ -1,0 +1,8 @@
+.idea
+**/*.iml
+.pytest_cache
+FuelConsumption.csv
+bin
+lib
+pip-selfcheck.json
+pyvenv.cfg
